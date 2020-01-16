@@ -12,7 +12,7 @@ pipeline {
             }
         }
         
-    //     stage("sonar_static_check"){
+    //      stage("sonar_static_check"){
     //         steps{
 	// 	withSonarQubeEnv('MySonarQube') {
     //                 // Optionally use a Maven environment you've configured already
